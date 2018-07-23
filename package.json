@@ -15,7 +15,5 @@
   "devDependencies": {
     "lite-server": "^2.3.0"
   },
-  "dependencies": {
-    "touch": "^3.1.0"
-  }
+  "dependencies": {}
 }
